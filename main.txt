@@ -1,4 +1,4 @@
-rts:453
-frs:732
-ssa:132
-tds:234
+rts:63
+fts:18
+tts:191
+sts:210
